@@ -60,6 +60,12 @@
 全社員リストのいずれかをクリックし、下段の変更、削除ボタンを押すと、各機能を実行する画面に切り替わります。変更ボタンを押すと、既存に保存されている情報が入力されており、既存に入力された内容を確認することができます。<br>
 <img src = "https://user-images.githubusercontent.com/50767972/85544019-8fd81580-b655-11ea-8da7-f6a852f8a14d.PNG" width = "90%"></img>
 <br>
+- 管理者モードの修正の画面
+<img src = "https://user-images.githubusercontent.com/50767972/85552834-5c4db900-b65e-11ea-8190-16ad5d44f101.PNG" width = "90%"></img>
+<br>
+- 管理者モードの追加の画面
+<img src = "https://user-images.githubusercontent.com/50767972/85552840-5d7ee600-b65e-11ea-8358-487822824902.PNG" width = "90%"></img>
+<br>
 <h4>5) メッセージの画面</h4>
 - メイン画面の上段にメッセージをクリックすると、メッセージウィンドウが表示されます。
 受け取ったメッセージと送ったメッセージを確認できるように、Tabで区切られています。
