@@ -34,16 +34,17 @@
 
 <h2>6. スクリーンショット</h2>
 <h4>1) ログインの画面</h4>
+- 
 <img src = "https://user-images.githubusercontent.com/50767972/85543739-4c7da700-b655-11ea-8564-4e72aa009b2a.PNG" width = "90%"></img>
 <br>
-<h4>2) 공지사항の画面</h4>
+<h4>2) 公知事項の画面</h4>
 <img src = "https://user-images.githubusercontent.com/50767972/85543851-67e8b200-b655-11ea-993b-939217b1873d.PNG" width = "90%"></img>
 <br>
-<h4>3) 한줄게시판の画面</h4>
+<h4>3) 簡単な掲示板の画面</h4>
 <img src = "https://user-images.githubusercontent.com/50767972/85543920-7931be80-b655-11ea-8ba7-775834e9fc7f.PNG" width = "90%"></img>
 <br>
-<h4>4) 관리자모드の画面</h4>
+<h4>4) 管理者モードの画面</h4>
 <img src = "https://user-images.githubusercontent.com/50767972/85544019-8fd81580-b655-11ea-8da7-f6a852f8a14d.PNG" width = "90%"></img>
 <br>
-<h4>5) 쪽지함の画面</h4>
+<h4>5) メッセージの画面</h4>
 <img src = "https://user-images.githubusercontent.com/50767972/85544077-9feff500-b655-11ea-84e3-140634be3c9d.PNG" width = "50%"></img>
