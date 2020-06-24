@@ -27,7 +27,7 @@
      データベース設計<br>
      JDBCを利用したDatabase連動<br>
 
-<h2>5. 데이터베이스 구조</h2>
+<h2>5. データベースの構造</h2>
 <img src = "https://user-images.githubusercontent.com/41276647/71147764-270a7d80-226d-11ea-96e9-1d15e8acf856.png" width = "90%"></img>
 
 
