@@ -25,7 +25,7 @@
  
  <h2>4. UIストーリーボードと核心技術</h2>
   1) UIストーリーボード<br>
-<img src = "https://user-images.githubusercontent.com/41276647/71144802-a6468400-2262-11ea-82b5-a9b8a95db705.png" width = "90%"></img>    
+<img src = "https://user-images.githubusercontent.com/50767972/85540968-88fbd380-b652-11ea-9d81-b27ae6ab1320.PNG" width = "90%"></img>    
     
   2) 核心技術<br>
      JFrame UIを実現<br>
