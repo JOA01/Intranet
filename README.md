@@ -31,11 +31,18 @@
 <img src = "https://user-images.githubusercontent.com/50767972/85542740-594dcb00-b654-11ea-9609-62da0d2ac9e9.PNG" width = "90%"></img>
 
 
-<h2>6. 스크린 샷</h2>
-<img src = "https://user-images.githubusercontent.com/41276647/71145233-3802c100-2264-11ea-8bc7-8953c6b1fc9a.JPG" width = "90%"></img>
+<h2>6. スクリーンショット</h2>
+<h4>1) ログインの画面</h4>
+<img src = "https://user-images.githubusercontent.com/50767972/85543739-4c7da700-b655-11ea-8564-4e72aa009b2a.PNG" width = "90%"></img>
 <br>
-<img src = "https://user-images.githubusercontent.com/41276647/71149285-7783da00-2271-11ea-8f4c-564233f058ed.PNG" width = "90%"></img>
+<h4>2) 공지사항の画面</h4>
+<img src = "(https://user-images.githubusercontent.com/50767972/85543851-67e8b200-b655-11ea-993b-939217b1873d.PNG" width = "90%"></img>
 <br>
-<img src = "https://user-images.githubusercontent.com/41276647/71149290-7a7eca80-2271-11ea-9d99-20a1944e1e45.PNG" width = "90%"></img>
+<h4>3) 한줄게시판の画面</h4>
+<img src = "https://user-images.githubusercontent.com/50767972/85543920-7931be80-b655-11ea-8ba7-775834e9fc7f.PNG" width = "90%"></img>
 <br>
-<img src = "https://user-images.githubusercontent.com/41276647/71149293-7ce12480-2271-11ea-8f3e-88db68290a33.png" width = "90%"></img>
+<h4>4) 관리자모드の画面</h4>
+<img src = "https://user-images.githubusercontent.com/50767972/85544019-8fd81580-b655-11ea-8da7-f6a852f8a14d.PNG" width = "90%"></img>
+<br>
+<h4>5) 쪽지함の画面</h4>
+<img src = "https://user-images.githubusercontent.com/50767972/85544077-9feff500-b655-11ea-84e3-140634be3c9d.PNG" width = "90%"></img>
