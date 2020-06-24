@@ -10,7 +10,7 @@
  管理者モードを利用できるようにアクセス権限を与えました。<br>
  
  2) 開発人員 : <br>
- 4人.<br>
+ 4人<br>
 
  3) 開発期間 : <br>
  2019.11.27 ~ 2019.12.06 (8日間) <br>
@@ -23,17 +23,14 @@
  4) Tool : Eclipse, SQLDevelopter, Netbeans<br>
  
  
- <h2>4. 実現機能と核心技術</h2>
-  1) 実現機能<br>
-     - Login : ID/PWD 일치 확인, 관리자 여부 판별<br>
-     - 
-     
-     아이디 및 비밀번호 검색<br>
-     글 등록 및 삭제 (CRUD)<br>
+ <h2>4. UIストーリーボードと核心技術</h2>
+  1) UIストーリーボード<br>
+<img src = "https://user-images.githubusercontent.com/41276647/71144802-a6468400-2262-11ea-82b5-a9b8a95db705.png" width = "90%"></img>    
+    
   2) 核心技術<br>
-     JFrame UI 구현<br>
-     Database 설계<br>
-     JDBC를 이용한 Database 연동<br>
+     JFrame UIを実現<br>
+     データベース設計<br>
+     JDBCを利用したDatabase連動<br>
 
 
 <h2>4. 프로그램 구성</h2>
