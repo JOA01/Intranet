@@ -16,19 +16,21 @@
  2019.11.27 ~ 2019.12.06 (8日間) <br>
 
 
-<h2>3. 개발 환경</h2>
- 1) 사용 언어 : JAVA<br>
- 2) 사용 툴 : Eclipse, SQLDevelopter, MySQL Workbench, Netbeans
+<h2>3. 開発環境</h2>
+ 1) 言語 : JAVA, JAVA Swing, SQL<br>
+ 2) OS : Windows 10 Home<br>
+ 3) DB : Oracle Database 11g Express Edition<br>
+ 4) Tool : Eclipse, SQLDevelopter, Netbeans<br>
  
  
- <h2>3. 구현 기능 및 핵심 기술</h2>
-  1) 주요 구현 기능<br>
-     회원 가입<br>
-     아이디 중복 확인<br>
-     로그인<br>
+ <h2>4. 実現機能と核心技術</h2>
+  1) 実現機能<br>
+     - Login : ID/PWD 일치 확인, 관리자 여부 판별<br>
+     - 
+     
      아이디 및 비밀번호 검색<br>
      글 등록 및 삭제 (CRUD)<br>
-  2) 핵심 기술<br>
+  2) 核心技術<br>
      JFrame UI 구현<br>
      Database 설계<br>
      JDBC를 이용한 Database 연동<br>
