@@ -28,7 +28,7 @@
      JDBCを利用したDatabase連動<br>
 
 <h2>5. データベースの構造</h2>
-<img src = "https://user-images.githubusercontent.com/41276647/71147764-270a7d80-226d-11ea-96e9-1d15e8acf856.png" width = "90%"></img>
+<img src = "https://user-images.githubusercontent.com/50767972/85542740-594dcb00-b654-11ea-9609-62da0d2ac9e9.PNG" width = "90%"></img>
 
 
 <h2>6. 스크린 샷</h2>
